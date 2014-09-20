@@ -9,9 +9,6 @@
     "react-tools": "~0.11.2"
   },
   "devDependencies": {},
-  "scripts": {
-    "start": "node app"
-  },
   "author": "",
   "license": "ISC"
 }
